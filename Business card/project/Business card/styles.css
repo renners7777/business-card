@@ -19,6 +19,12 @@ body {
     color: #2b2839;
     border-bottom: 10px solid #d8cefe;
     border-radius: 15px;
+    overflow: auto;
+}
+
+span{
+    font-style: italic;
+    font-size: 12px;
 }
 
 
